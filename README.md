@@ -1,33 +1,13 @@
-# Various 3D Models
-Powered by SolidWorks and OnShape.
+# Temperature Controller using an Electric Fan 
 
-## The Turbine Support
-The full assembly of the support:<br />
-![support](https://user-images.githubusercontent.com/30231031/39000512-38e55952-43c2-11e8-9d2f-557a848756c8.PNG)
-There are 2 parts in this assembly: the base and the beam, which can be seen as follows:<br />
-![bar](https://user-images.githubusercontent.com/30231031/39000945-28f6a4be-43c3-11e8-9e1c-7768316f8a6c.PNG)
-![base](https://user-images.githubusercontent.com/30231031/39000947-2a7497ba-43c3-11e8-93af-5f232dbb86a7.PNG)
-Also, the support is simulated in SolidWorks: <br />
-![simulation](https://user-images.githubusercontent.com/30231031/39001164-a90fdd32-43c3-11e8-9517-eddac5433b9d.PNG)
-
-## The Fan 
-Computer Electric Fan<br />
-![fan](https://user-images.githubusercontent.com/30231031/39676635-3ea61eda-513c-11e8-9d31-0e91c869adad.PNG)
-
-## The Underwater Remote Control Vehicle
-This Underwater Remote Operated Vehicle (UROV) is designed with the purpose of placing a
-cap on a ruptured oil well and also clearing surrounding debris. <br />
-![underwaterrov](https://user-images.githubusercontent.com/30231031/39676713-2ae260ce-513d-11e8-96cc-54cf1e47c1d4.PNG)
-![underwaterrov1](https://user-images.githubusercontent.com/30231031/39676714-2aee73fa-513d-11e8-9b5c-8a5eec8264b3.PNG)
-## The Crank
-The Assembly<br />
-![crank](https://user-images.githubusercontent.com/30231031/39676779-08dee424-513e-11e8-8eb5-8649e3e1c223.PNG)
-The Drawing<br />
-![drawing](https://user-images.githubusercontent.com/30231031/39676780-08e93406-513e-11e8-9096-227bbcb65eef.PNG)
-
-## The Pulley
-![pulley](https://user-images.githubusercontent.com/30231031/39676674-b858d056-513c-11e8-9d57-4e02ae0efb33.PNG)
-## Others
-Small parts for specific use. 
-### IR casing used for Sumo-Robot
-![casing](https://user-images.githubusercontent.com/30231031/39676753-cc12fe18-513d-11e8-9ee7-6ddb019f52c6.PNG)
+![milestone-2-06](https://user-images.githubusercontent.com/30231031/39701083-ce9d6c32-51cd-11e8-99f1-026ea5edaac7.png)
+![milestone-2-07](https://user-images.githubusercontent.com/30231031/39701084-ceab36d2-51cd-11e8-9c61-469fdb943e21.png)
+![milestone-2-08](https://user-images.githubusercontent.com/30231031/39701085-ceb7b632-51cd-11e8-8fa0-feb352975071.png)
+![milestone-2-09](https://user-images.githubusercontent.com/30231031/39701086-cec8e646-51cd-11e8-9afe-0d772c2fc12e.png)
+![milestone-2-10](https://user-images.githubusercontent.com/30231031/39701087-ced77f4e-51cd-11e8-9422-4fc64adf4c2f.png)
+![milestone-2-11](https://user-images.githubusercontent.com/30231031/39701088-cee30c4c-51cd-11e8-916d-748cfe6fa72f.png)
+![milestone-2-01](https://user-images.githubusercontent.com/30231031/39701090-cef77056-51cd-11e8-8be7-10781fb3323c.png)
+![milestone-2-02](https://user-images.githubusercontent.com/30231031/39701091-cf061b24-51cd-11e8-8f60-a780a915c9de.png)
+![milestone-2-03](https://user-images.githubusercontent.com/30231031/39701092-cf1c7b58-51cd-11e8-8901-ff674ec45c45.png)
+![milestone-2-04](https://user-images.githubusercontent.com/30231031/39701093-cf2711a8-51cd-11e8-93ac-aa278f2191be.png)
+![milestone-2-05](https://user-images.githubusercontent.com/30231031/39701094-cf3b468c-51cd-11e8-9c7c-d581162a737b.png)
